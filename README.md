@@ -1,2 +1,1 @@
-Moja prva promjena
-Moja druga promjena
+Ovo je moj prvi repozitorij
